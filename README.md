@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.tenor.com/8Yj0E02-8_AAAAAi/satoru-gojo-jujutsu-kaisen.gif" width="200" alt="Gojo Animation"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20ECE%20Student-1E293B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-A855F7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF5C00?style=for-the-badge"/>
