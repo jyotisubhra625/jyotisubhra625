@@ -21,14 +21,16 @@
 
 ---
 
-### 💼 Projects Showcase
-
-| Project | Description |
-|--------|-------------|
-| **To-Do Application** | A fully functional Android task management app with Google Firebase auth and real-time database storage. |
-| **ML-Projects** | Deep learning materials exploring PyTorch, TensorFlow, and artificial datasets. |
-| **Journey-of-Python** | Comprehensive repository for Python development, from zero to job ready. |
-| **Auto-Reply-Bot / Jarvis** | Automated Python scripts for task efficiency. |
+### 💼 What I'm Working On
+ 
+| Repo | What it is |
+|---|---|
+| [**Journey-of-Python**](https://github.com/jyotisubhra625/Journey-of-Python) | My personal "zero to job-ready" Python learning log — notes, scripts, and projects as I go. |
+| [**ML-Projects**](https://github.com/jyotisubhra625/ML-Projects) | Notebooks exploring ML/DL fundamentals — datasets, model training, experiments. |
+| [**pytorch-deep-learning**](https://github.com/jyotisubhra625/pytorch-deep-learning) | Working through the *PyTorch for Deep Learning: Zero to Mastery* course material. |
+| [**Auto-Reply-Bot**](https://github.com/jyotisubhra625/Auto-Reply-Bot) | A small Python automation bot for handling repetitive replies. |
+| [**Jarvis**](https://github.com/jyotisubhra625/Jarvis) | A Python assistant project — automating everyday tasks. |
+| [**Python-Projects**](https://github.com/jyotisubhra625/Python-Projects) | Grab-bag of smaller Python builds and experiments. |
 
 ---
 
