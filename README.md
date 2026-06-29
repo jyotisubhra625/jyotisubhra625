@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="https://media.tenor.com/8Yj0E02-8_AAAAAi/satoru-gojo-jujutsu-kaisen.gif" width="200" alt="Gojo Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&pause=3000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=Subhrajyoti+Das;>_Subhrajyoti_Das" alt="Subhrajyoti Das" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20ECE%20Student-1E293B?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+ML+Builder;Android+Dev+(Java+%2B+Firebase);Night+Owl+%F0%9F%A6%89;Code.+Build.+Optimize." />
+</p>
+
+<p align="center">
+  
   <img src="https://img.shields.io/badge/Machine%20Learning-A855F7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF5C00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Android%20Developer-22C55E?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Subhrajyoti!;ECE+Student+%7C+ML+Builder;Android+Dev+(Java+%2B+Firebase);Code.+Build.+Optimize." />
+<p align='center'>
+  <img src="https://img.shields.io/badge/B.Tech%20ECE%20Student-1E293B?style=for-the-badge"/>
 </p>
 
 ---
@@ -113,3 +117,7 @@
 ### ⚡ Fun Fact
 
 > I am a total night owl, so my most productive coding sessions usually happen around 2:00 AM! 🦉
+
+<p align="center">
+  <img src="https://github.com/jyotisubhra625/jyotisubhra625/blob/main/satoru-gojo---correndo.gif?raw=true" width="200" alt="Gojo Animation"/>
+</p>
